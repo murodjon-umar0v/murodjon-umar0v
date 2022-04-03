@@ -98,7 +98,6 @@ https://github-readme-streak-stats.herokuapp.com/?user=murodjon-umar0v
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murodjon-umar0v&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ---
 
 ### :writing_hand: Blog Posts :
 
@@ -108,6 +107,5 @@ https://github-readme-streak-stats.herokuapp.com/?user=murodjon-umar0v
 <!-- BLOG-POST-LIST:START -->
   
 <!-- BLOG-POST-LIST:END -->
- -->
     
 
