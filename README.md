@@ -3,14 +3,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href='https://www.linkedin.com/in/murodjon-umarov-90750321a/'>
+  <a target="_blank" href='https://www.linkedin.com/in/murodjon-umarov-90750321a/'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href='https://instagram.com/murodjon.2559'>
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
+  <a target="_blank" href='https://instagram.com/murodjon.2559'>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href='https://t.me/murodjon2559'>
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
+  <a target="_blank" href='https://t.me/murodjon2559'>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
  </div>
  <div align="center">
@@ -30,14 +30,15 @@
 - 🌱 I’m currently learning Vue.js
 - 💬 Ask me about coding world
 - 📫 How to reach me: 
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href='https://instagram.com/murodjon.2559'>
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href='https://t.me/murodjon2559'>
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
-  </a>
+    <a target="_blank" href='https://www.linkedin.com/in/murodjon-umarov-90750321a/'>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a target="_blank" href='https://instagram.com/murodjon.2559'>
+      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a target="_blank" href='https://t.me/murodjon2559'>
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
 
 
 ---
@@ -97,7 +98,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=murodjon-umar0v
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murodjon-umar0v&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+<!-- ---
 
 ### :writing_hand: Blog Posts :
 
@@ -105,8 +106,8 @@ https://github-readme-streak-stats.herokuapp.com/?user=murodjon-umar0v
 
         
 <!-- BLOG-POST-LIST:START -->
-
+  
 <!-- BLOG-POST-LIST:END -->
-
+ -->
     
 
