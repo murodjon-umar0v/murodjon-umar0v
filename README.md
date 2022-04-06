@@ -62,39 +62,52 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" width="40" height="40" />      
     </li>
-    
-    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/foundation/foundation-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40" />
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="40" height="40" />
+    <li>
+      <h3>Frameworks</h3>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40" height="40" />
+    </li>
+    <li>
+      <h3>Data Base</h3>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>   
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>    
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" />
+    </li>
+    <li>
+      <h3>Packages</h3>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
+    </li>
+    <li>
+      <h3>Programming environment</h3>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40" />
+    </li>
+    <li>
+      <h3>Other tools</h3>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/foundation/foundation-original.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="40" height="40" />
+    </li>
+  </ul>
+   
 </div>
 
 ---
