@@ -112,6 +112,12 @@
 
 ---
 
+
+<!--   GitHub stats graph -->
+<!-- ### 📈 GitHub Activity Graph: -->
+<!-- [![murodjon-umar0v's github activity graph](https://activity-graph.herokuapp.com/graph?username=murodjon-umar0v&theme=react-dark)](https://github.com/murodjon-umar0v/github-readme-activity-graph)  -->
+
+
 ### :fire: My Stats :
 
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=murodjon-umar0v --> <br>
