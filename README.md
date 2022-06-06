@@ -71,13 +71,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40" height="40" />
     </li>
     <li>
-      <h3>Data Base</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>   
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>    
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" />
-    </li>
-    <li>
       <h3>Packages</h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
