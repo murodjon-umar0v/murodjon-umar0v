@@ -28,15 +28,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="20" height="20" />
 - 💬 Ask me about coding world
 - 📫 How to reach me: 
-    <br>
+    <br><br>
     <a target="_blank" href='https://www.linkedin.com/in/murodjon-umarov-90750321a/'>
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <br>
     <a target="_blank" href='https://instagram.com/murodjon.2559'>
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <br>
     <a target="_blank" href='https://t.me/murodjon2559'>
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
